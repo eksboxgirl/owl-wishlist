@@ -1,0 +1,32 @@
+title:Owl Sector's DIM wishlist S20
+description:Destiny Season 20 - Day 1 raid weapons to farm/use
+
+//notes:Cartesian Coordinate & Riptide - rapid-fire fusion rifles have the highest sustained damage special ammo weapons in the game
+dimwishlist:item=2481881293&perks=2405638014,2680121939,1556840489,1546637391#notes:Cartesian Coordinates - no longer available from loot pool
+dimwishlist:item=2715240478&perks=3250034553,2680121939,3300816228,2978966579#notes:Riptide - chill clip with auto-loading is great to freeze champions
+dimwishlist:item=2715240478&perks=3250034553,2680121939,2869569095,1546637391#notes:Riptide - made for boss damage. want max ammo with field prep/enhanced battery and max dps against bosses/champions/vehicles with vorpal
+
+//notes:Retraced Path, Hollow Denial, Path of Least Resistance- crafted trace rifles have good ammo economy and they melt adds faster than primary ammo weapons, with bows being the closest to the damage
+dimwishlist:item=548958835&perks=839105230,732557052,1820235745,3523296417#notes:For solar hunter/warlock build, pair with healing grenades to help stay alive and Ember of Empyrean and/or Ember of Solace fragments
+dimwishlist:item=548958835&perks=839105230,732557052,1820235745,2896038713#notes:For solar titan build, pair with Lorely Splendor to help stay alive with sunspots
+dimwishlist:item=2323544076&perks=3250034553,732557052,1556840489,776531651#notes:For void hunter/warlock build, use warlock's child of the old gods and hunter's Gyrfalcon Hauberk to get 9s overshield
+dimwishlist:item=2323544076&perks=3250034553,732557052,1556840489,3592538738#notes:For void titan build, pair overshield barrier with wellspring to regain ability energy
+dimwishlist:item=2827764482&perks=1840239774,732557052,1583705720,2173046394,2839173408#notes:use in lieu of primary. can be paired with Spark of Ions arc fragment
+dimwishlist:item=2827764482&perks=3661387068,2680121939,3400784728,2896038713,2839173408#notes:depends on new meta. enhanced or ionized battery
+dimwishlist:item=2827764482&perks=3661387068,1483536627,3400784728,2896038713,2839173408#notes:depends on new meta. ionized or enhanced battery
+
+//notes:Iron Banner weapons
+dimwishlist:item=4009352833&perks=3525010810,3796465595,3523296417,3927722942#notes:quick launch and impact casing perks preferred. might pair nicely with starfire protocol
+dimwishlist:item=4009352833&perks=3523296417,3927722942#notes:quick launch and impact casing perks preferred. might pair nicely with starfire protocol
+dimwishlist:item=4009352833&perks=3525010810,3796465595,3523296417,1546637391#notes:quick launch and impact casing perks preferred. might pair nicely with starfire protocol
+dimwishlist:item=4009352833&perks=3523296417,1546637391#notes:quick launch and impact casing perks preferred. might pair nicely with starfire protocol
+dimwishlist:item=4009352833&perks=2869569095,3927722942#notes:quick launch and impact casing perks preferrerd. field prep for stationary bosses
+dimwishlist:item=4009352833&perks=3977735242,3927722942#notes:quick launch and impact casing perks preferrerd. tracking for moving bosses
+dimwishlist:item=487361141&perks=1840239774,1087426260,3300816228,1546637391#notes:prefer First In Last Out with assault mag for faster swaps
+dimwishlist:item=487361141&perks=1087426260,3300816228,1546637391#notes:fluted barrel preferred. First In Last Out better with assault mag for faster swaps
+dimwishlist:item=1796949035&perks=1749209109,4104185692#notes:prefer swordmaster's guard.
+dimwishlist:item=1796949035&perks=269888150,1749209109,4104185692#notes:avoid enduring blade unless need extra ammo vs impact
+
+//notes:Hung Jury SR4 - if Bungie alters the current ammo economy benefits of running double special weapons Adept Hung Jury is a very strong scout rifle
+dimwishlist:item=681067419&perks=1392496348,1087426260,3436462433,3038247973#notes:surplus greatly boosts the stats on the gun, but the stat meters do no reflect this in game. this combo the gun has 100 Stability, 100 Handling and 99 Reload
+dimwishlist:item=772231794&perks=1392496348,1087426260,3436462433,3038247973#notes:surplus greatly boosts the stats on the gun, but the stat meters do no reflect this in game

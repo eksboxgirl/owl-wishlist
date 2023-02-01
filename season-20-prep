@@ -26,6 +26,22 @@ dimwishlist:item=487361141&perks=1840239774,1087426260,3300816228,1546637391#not
 dimwishlist:item=487361141&perks=1087426260,3300816228,1546637391#notes:fluted barrel preferred. First In Last Out better with assault mag for faster swaps
 dimwishlist:item=1796949035&perks=1749209109,4104185692#notes:prefer swordmaster's guard.
 dimwishlist:item=1796949035&perks=269888150,1749209109,4104185692#notes:avoid enduring blade unless need extra ammo vs impact
+//notes:possible hothead substitue. prefer tracking over field prep for moving target. prefer explosive light, lasting impression, frenzy, or vorpal for other perk. warlock prefer demolitionist when paired with starfire protocol over field prep
+dimwishlist:item=1903182562&perks=3525010810,3796465595,2869569095
+dimwishlist:item=1903182562&perks=3525010810,3796465595,2869569095,1546637391
+dimwishlist:item=1903182562&perks=3525010810,3796465595,2869569095,3194351027
+dimwishlist:item=1903182562&perks=3525010810,3796465595,2869569095,4104185692
+dimwishlist:item=1903182562&perks=3525010810,3796465595,2869569095,3927722942
+dimwishlist:item=1903182562&perks=3525010810,3796465595,3523296417#notes:for warlock with starfire protocol
+dimwishlist:item=1903182562&perks=3525010810,3796465595,3523296417,1546637391
+dimwishlist:item=1903182562&perks=3525010810,3796465595,3523296417,3194351027
+dimwishlist:item=1903182562&perks=3525010810,3796465595,3523296417,4104185692
+dimwishlist:item=1903182562&perks=3525010810,3796465595,3523296417,3927722942
+dimwishlist:item=1903182562&perks=3525010810,3796465595,3977735242,1546637391#notes:for moving target.
+dimwishlist:item=1903182562&perks=3525010810,3796465595,3977735242,3194351027
+dimwishlist:item=1903182562&perks=3525010810,3796465595,3977735242,4104185692
+dimwishlist:item=1903182562&perks=3525010810,3796465595,3977735242,3927722942
+
 
 //notes:Hung Jury SR4 - if Bungie alters the current ammo economy benefits of running double special weapons Adept Hung Jury is a very strong scout rifle
 dimwishlist:item=681067419&perks=1392496348,1087426260,3436462433,3038247973#notes:surplus greatly boosts the stats on the gun, but the stat meters do no reflect this in game. this combo the gun has 100 Stability, 100 Handling and 99 Reload

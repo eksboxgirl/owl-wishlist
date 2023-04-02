@@ -68,3 +68,8 @@ dimwishlist:item=1403800851&perks=957782887,3038247973
 dimwishlist:item=1403800851&perks=1821614984,3038247973
 //snapshot, opening
 dimwishlist:item=1403800851&perks=957782887,47981717
+
+// ITERATIVE LOOP
+//notes:pvp (https://www.youtube.com/watch?v=yVdj9UP3Jfg)
+dimwishlist:item=1289796511&perks=1645158859,1754714824
+dimwishlist:item=1289796511&perks=1482024992,3868766766,1645158859,1754714824
